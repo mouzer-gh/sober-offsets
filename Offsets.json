@@ -1,0 +1,349 @@
+{
+  "TaskScheduler": {
+    "Pointer": 123107600,
+    "MaxFPS": 218,
+    "JobStart": 208,
+    "JobEnd": 216,
+    "JobName": 24
+  },
+  "RenderJob": {
+    "FakeDataModel": 48,
+    "RealDataModel": 496
+  },
+  "FakeDataModel": {
+    "RealDataModel": 496
+  },
+  "VisualEngine": {
+    "Pointer": 122813400,
+    "ViewMatrix": 288
+  },
+  "Instance": {
+    "NameContainer": 104,
+    "Name": 1,
+    "ChildrenStart": 112,
+    "ChildrenEnd": 8,
+    "Parent": 96,
+    "ClassDescriptor": 24,
+    "ClassName": 8,
+    "ClassBase": 432
+  },
+  "Misc": {
+    "Adornee": 216,
+    "Value": 161
+  },
+  "DataModel": {
+    "PlaceId": 368,
+    "GameId": 360,
+    "CreatorId": 352,
+    "Workspace": 312,
+    "JobId": 264,
+    "ScriptContext": 1088,
+    "PlaceVersion": 396,
+    "PrimitiveCount": 960
+  },
+  "Player": {
+    "LocalPlayer": 264,
+    "UserId": 184,
+    "DisplayName": 265,
+    "ModelInstance": 600,
+    "TeamColor": 880,
+    "HealthDisplayDistance": 856,
+    "NameDisplayDistance": 872,
+    "AccountAge": 796,
+    "Team": 664,
+    "MinZoomDistance": 812,
+    "MaxZoomDistance": 808,
+    "CameraMode": 816
+  },
+  "Humanoid": {
+    "Health": 372,
+    "MaxHealth": 396,
+    "Walkspeed": 436,
+    "WalkspeedCheck": 908,
+    "JumpPower": 392,
+    "JumpHeight": 388,
+    "MaxSlopeAngle": 400,
+    "SeatPart": 224,
+    "HumanoidRootPart": 1088,
+    "CameraOffset": 256,
+    "HealthDisplayDistance": 364,
+    "NameDisplayDistance": 404,
+    "DisplayDistanceType": 356,
+    "HealthDisplayType": 368,
+    "NameOcclusion": 408,
+    "RigType": 420,
+    "UseJumpPower": 454,
+    "AutomaticScalingEnabled": 442,
+    "BreakJointsOnDeath": 444,
+    "EvaluateStateMachine": 445,
+    "RequiresNeck": 451,
+    "AutoJumpEnabled": 440,
+    "AutoRotate": 441,
+    "Sit": 452,
+    "DisplayName": 161,
+    "MoveDirection": 292,
+    "MoveToPoint": 328,
+    "MoveToPart": 240,
+    "WalkTimer": 976,
+    "Jump": 448,
+    "PlatformStand": 450,
+    "HipHeight": 376,
+    "TargetPoint": 300
+  },
+  "Team": {
+    "BrickColor": 160
+  },
+  "Seat": {
+    "Occupant": 496
+  },
+  "VehicleSeat": {
+    "MaxSpeed": 512,
+    "SteerFloat": 516,
+    "ThrottleFloat": 520,
+    "Torque": 524,
+    "TurnSpeed": 528
+  },
+  "Tool": {
+    "Tooltip": 1001,
+    "Grip": 1060
+  },
+  "CharacterMesh": {
+    "BaseTextureId": 177,
+    "OverlayTextureId": 257,
+    "MeshId": 217,
+    "BodyPart": 280
+  },
+  "StatsItem": {
+    "Value": 152
+  },
+  "Workspace": {
+    "CurrentCamera": 1112,
+    "World": 952,
+    "ReadOnlyGravity": 2376,
+    "DistributedGameTime": 1144
+  },
+  "Camera": {
+    "CameraSubject": 168,
+    "Rotation": 184,
+    "Position": 220,
+    "FieldOfView": 288,
+    "ImagePlaneDepth": 716,
+    "CameraType": 280,
+    "Viewport": 1600
+  },
+  "BasePart": {
+    "Primitive": 360,
+    "Shape": 400,
+    "Reflectance": 236,
+    "CastShadow": 280,
+    "Locked": 281,
+    "Massless": 282
+  },
+  "Primitive": {
+    "Position": 212,
+    "CFrame": 176,
+    "Rotation": 176,
+    "Size": 452,
+    "AssemblyLinearVelocity": 224,
+    "Owner": 536,
+    "Flags": 446,
+    "AssemblyAngularVelocity": 236
+  },
+  "Model": {
+    "PrimaryPart": 512,
+    "Scale": 292
+  },
+  "WorldRoot": {
+    "RaycastBoundDesc": 119502064,
+    "RaycastBoundFn": 168
+  },
+  "MouseService": {
+    "InputObject": 232
+  },
+  "InputObject": {
+    "MousePosition": 188
+  },
+  "World": {
+    "Gravity": 528,
+    "worldStepsPerSec": 2032,
+    "FallenPartsDestroyHeight": 516,
+    "AirProperties": 552,
+    "Primitives": 632
+  },
+  "AirProperties": {
+    "AirDensity": 16,
+    "GlobalWind": 52
+  },
+  "Terrain": {
+    "GrassLength": 456,
+    "WaterReflectance": 464,
+    "WaterTransparency": 468,
+    "WaterWaveSize": 472,
+    "WaterWaveSpeed": 476,
+    "WaterColor": 440,
+    "MaterialColors": 1168
+  },
+  "MaterialColors": {
+    "Asphalt": 48,
+    "Basalt": 39,
+    "Brick": 15,
+    "Cobblestone": 51,
+    "Concrete": 12,
+    "CrackedLava": 45,
+    "Glacier": 27,
+    "Grass": 6,
+    "Ground": 42,
+    "Ice": 54,
+    "LeafyGrass": 57,
+    "Limestone": 63,
+    "Mud": 36,
+    "Pavement": 66,
+    "Rock": 24,
+    "Salt": 60,
+    "Sand": 18,
+    "Sandstone": 33,
+    "Slate": 9,
+    "Snow": 30,
+    "WoodPlanks": 21
+  },
+  "Sound": {
+    "SoundId": 177,
+    "RollOffMaxDistance": 256,
+    "RollOffMinDistance": 260,
+    "PlaybackSpeed": 252,
+    "Volume": 272,
+    "SoundGroup": 200,
+    "IsPlaying": 288,
+    "Looped": 285
+  },
+  "SpawnLocation": {
+    "ForcefieldDuration": 448,
+    "TeamColor": 452,
+    "AllowTeamChangeOnTouch": 456,
+    "Enabled": 457,
+    "Neutral": 458
+  },
+  "SurfaceAppearance": {
+    "AlphaMode": 424,
+    "EmissiveStrength": 428
+  },
+  "ParticleEmitter": {
+    "Brightness": 508,
+    "LightEmission": 536,
+    "LightInfluence": 540,
+    "ZOffset": 580,
+    "Lifetime": 468,
+    "Rate": 552,
+    "Rotation": 484,
+    "RotSpeed": 476,
+    "Speed": 492,
+    "SpreadAngle": 500,
+    "Acceleration": 448,
+    "Drag": 512,
+    "TimeScale": 572,
+    "VelocityInheritance": 576
+  },
+  "Beam": {
+    "Brightness": 352,
+    "LightEmission": 364,
+    "LightInfluence": 368,
+    "TextureLength": 380,
+    "TextureSpeed": 388,
+    "ZOffset": 400,
+    "Attachment0": 320,
+    "Attachment1": 336,
+    "CurveSize0": 356,
+    "CurveSize1": 360,
+    "Width0": 392,
+    "Width1": 396
+  },
+  "Lighting": {
+    "ClockTime": 176,
+    "Brightness": 256,
+    "EnvironmentDiffuseScale": 260,
+    "EnvironmentSpecularScale": 264,
+    "FogStart": 280,
+    "FogEnd": 276,
+    "FogColor": 220,
+    "Ambient": 184,
+    "OutdoorAmbient": 232,
+    "ColorShift_Top": 196,
+    "ColorShift_Bottom": 208,
+    "ExposureCompensation": 268,
+    "GeographicLatitude": 284,
+    "LightColor": 324,
+    "GradientTop": 312,
+    "GradientBottom": 376,
+    "MoonPosition": 364,
+    "SunPosition": 336,
+    "Sky": 432
+  },
+  "Sky": {
+    "SunAngularSize": 3012,
+    "MoonAngularSize": 3016,
+    "StarCount": 496
+  },
+  "Atmosphere": {
+    "Density": 184,
+    "Offset": 196,
+    "Color": 160,
+    "Glare": 188,
+    "Haze": 192
+  },
+  "BloomEffect": {
+    "Intensity": 152,
+    "Size": 156,
+    "Threshold": 160,
+    "Enabled": 149
+  },
+  "DepthOfFieldEffect": {
+    "FocusDistance": 156,
+    "FarIntensity": 152,
+    "NearIntensity": 164,
+    "InFocusRadius": 160
+  },
+  "SunRaysEffect": {
+    "Intensity": 152,
+    "Spread": 156
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 164,
+    "Contrast": 168
+  },
+  "ColorGradingEffect": {
+    "TonemapperPreset": 152
+  },
+  "BlurEffect": {
+    "Size": 152
+  },
+  "ProximityPrompt": {
+    "ActionText": 153,
+    "ObjectText": 177,
+    "HoldDuration": 248,
+    "MaxActivationDistance": 256,
+    "KeyCode": 252,
+    "GamepadKeyCode": 244,
+    "Enabled": 270,
+    "RequiresLineOfSight": 271
+  },
+  "ClickDetector": {
+    "MaxActivationDistance": 200
+  },
+  "DragDetector": {
+    "ReferenceInstance": 424,
+    "MaxActivationDistance": 200,
+    "MaxDragAngle": 608,
+    "MaxDragTranslation": 548,
+    "MinDragAngle": 620,
+    "MinDragTranslation": 560,
+    "MaxForce": 612,
+    "MaxTorque": 616,
+    "Responsiveness": 632
+  },
+  "PrimitiveFlags": {
+    "Anchored": 2,
+    "CanCollide": 8,
+    "CanTouch": 16,
+    "CanQuery": 32
+  }
+}
